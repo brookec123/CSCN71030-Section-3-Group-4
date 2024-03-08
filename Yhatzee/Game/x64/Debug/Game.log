@@ -1,0 +1,10 @@
+﻿  GameLogic.c
+C:\Users\brook\OneDrive\Desktop\CSCN71030\GroupProject\Yhatzee\Game\GameLogic.c(127,31): warning C4047: 'function': 'PDIE *' differs in levels of indirection from 'PDIE'
+C:\Users\brook\OneDrive\Desktop\CSCN71030\GroupProject\Yhatzee\Game\GameLogic.c(127,31): warning C4024: 'SortDiceSmallestToLargest': different types for formal and actual parameter 1
+C:\Users\brook\OneDrive\Desktop\CSCN71030\GroupProject\Yhatzee\Game\GameLogic.c(151,31): warning C4047: 'function': 'PDIE *' differs in levels of indirection from 'PDIE'
+C:\Users\brook\OneDrive\Desktop\CSCN71030\GroupProject\Yhatzee\Game\GameLogic.c(151,31): warning C4024: 'SortDiceSmallestToLargest': different types for formal and actual parameter 1
+C:\Users\brook\OneDrive\Desktop\CSCN71030\GroupProject\Yhatzee\Game\GameLogic.c(326,33): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\brook\OneDrive\Desktop\CSCN71030\GroupProject\Yhatzee\Game\GameLogic.c(332,33): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+  Source.c
+  Generating Code...
+  Game.vcxproj -> C:\Users\brook\OneDrive\Desktop\CSCN71030\GroupProject\Yhatzee\x64\Debug\Game.exe

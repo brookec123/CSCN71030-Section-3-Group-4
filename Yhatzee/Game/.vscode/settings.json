@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "player.h": "c",
+        "gamelogic.h": "c",
+        "stdbool.h": "c",
+        "string.h": "c"
+    }
+}
