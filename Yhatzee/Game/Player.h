@@ -17,7 +17,7 @@
 typedef struct Player
 {
 	char* name;
-  	int currentGameNumber;
+  	int currentGameNumber; // SUBTRACT 1 FOR INDEX
 	int** currentScore;
 	int** canScore;
 	// include file name where player's info is stored????

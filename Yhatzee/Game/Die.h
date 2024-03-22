@@ -61,5 +61,5 @@ int compare(const void* a, const void* b);
 /// @param dice (PDIE*)
 /// @param number (int)
 /// @return (void)
-void SortDiceSmallestToLargest(PDIE* dice, int number_of_dice);
+void SortDiceSmallestToLargest(PDIE dice, int number_of_dice);
 
